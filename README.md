@@ -28,8 +28,7 @@ It focuses on cleaning, exploring, and visualizing the data to uncover key insig
 ## 🚀 How to Run
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   https://github.com/MayankRao2006/Exploratory_Data_Analysis
 
 
 Install dependencies
